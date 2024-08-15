@@ -15,3 +15,4 @@ nepse/__main__.py
 docs/_build/
 docs/_static/
 docs/_templates/
+.idea
